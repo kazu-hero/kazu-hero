@@ -3,6 +3,9 @@
 
 ![kazu-hero's GitHub stats](https://github-readme-stats.vercel.app/api?username=kazu-hero&count_private=true&show_icons=true&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kazu-hero)](https://github.com/kazu-hero/github-readme-stats&theme=radical)
+
+
 <!--
 **kazu-hero/kazu-hero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
