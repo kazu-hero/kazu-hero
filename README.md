@@ -3,7 +3,7 @@
 
 ![kazu-hero's GitHub stats](https://github-readme-stats.vercel.app/api?username=kazu-hero&count_private=true&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kazu-hero)](https://github.com/kazu-hero/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kazu-hero&layout=compact)](https://github.com/kazu-hero/github-readme-stats)
 
 
 <!--
