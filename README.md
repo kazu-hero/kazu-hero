@@ -1,5 +1,5 @@
 
-[![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,git,github,gcp,twitter,docker,vim,vscode)](https://skillicons.dev)
 
 
 <!--
